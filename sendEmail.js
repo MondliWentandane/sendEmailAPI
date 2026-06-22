@@ -21,7 +21,7 @@ const mailOptions ={
     from: {name: "Frank Mosehla",
            address: process.env.USER
     },
-    to: ["mondlik34@gmail.com"],
+    to: ["Your Email Address"],
     subject: "Send email using nodemailer and gmail ✔",
     text: `Hi`, // plain‑text body
     html: `<b>Dear Miss Serathi I hope this message finds you well. 
